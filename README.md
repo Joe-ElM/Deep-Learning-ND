@@ -1,7 +1,5 @@
 ![Deep Learning Nanodegree](https://github.com/Joe-ElM/Deep-Learning-ND/blob/master/assets/ND1.jpg)
 
-<img src='https://github.com/Joe-ElM/Deep-Learning-ND/blob/master/assets/ND1.jpg' width='100%'/>
-
 # Deep Learning Nanodegree - Udacity (PyTorch)
 
 This repository contains materials related to Udacity's [Deep Learning Nanodegree](https://www.udacity.com/course/deep-learning-nanodegree--nd101). It includes project implementations, learning resources, and supporting materials covering deep learning topics such as **Convolutional Neural Networks (CNNs), Recurrent Neural Networks (RNNs), Transformers, and Generative Adversarial Networks (GANs)**.
