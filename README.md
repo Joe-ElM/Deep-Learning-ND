@@ -1,6 +1,6 @@
-![Deep Learning Nanodegree](https://github.com/Joe-ElM/Deep-Learning-ND/raw/main/assets/ND.jpg)
+![Deep Learning Nanodegree](https://github.com/Joe-ElM/Deep-Learning-ND/blob/master/assets/ND1.jpg)
 
-<img src='https://github.com/Joe-ElM/Deep-Learning-ND/raw/main/assets/ND.jpg' width='100%'/>
+<img src='https://github.com/Joe-ElM/Deep-Learning-ND/blob/master/assets/ND1.jpg' width='100%'/>
 
 # Deep Learning Nanodegree - Udacity (PyTorch)
 
